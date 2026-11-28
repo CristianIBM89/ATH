@@ -1,4 +1,4 @@
 {
-    "backendUrl":  "https://statewide-astrology-date-twenty.trycloudflare.com",
+    "backendUrl":  "https://api.trycloudflare.com",
     "defaultApproverEmail":  ""
 }
